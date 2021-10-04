@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="val">
+        <item>UAH</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RUB</item>
+    </string-array>
+    <string name="nominal">Номінал</string>
+    <string name="number">Кількість</string>
+    <string name="sum">Сума</string>
+    <string name="main_sum">Перерахувати</string>
+    <string name="contentDescription">null</string>
+    <string name="save_button">Зберегти</string>
+</resources>
